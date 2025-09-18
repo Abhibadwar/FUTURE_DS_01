@@ -2,8 +2,6 @@
 
 ## Executive Summary
 The Super Store Sales Dashboard gives a clear view of overall sales performance.  
-With **501K in sales**, **40K profit**, and **8,780 units sold**, the dashboard shows key trends across products, customers, regions, and shipping modes.  
-
 
 
 ## Key Insights
